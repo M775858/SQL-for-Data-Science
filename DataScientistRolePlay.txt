@@ -1,6 +1,6 @@
 
-By: Trent Parkinson
-Date: Jan-18th-2018
+lBy: Mfanelo Jiki
+Date: 19-03-2021
 
 Data Scientist Role Play: Profiling and Analyzing the Yelp Dataset Coursera Worksheet
 
@@ -391,7 +391,7 @@ Part 1: Yelp Dataset Profiling and Understanding
 		Yes, but there does seem to be one major outlier, number three Harald. The
 		other users seem to have a correlation with more `useful` and `funny`
 		results in more fans, but also in conjunction with review_count and time
-		they have been yelping.
+		they have been yeping.
 	
 	
 
